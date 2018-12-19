@@ -1,0 +1,6 @@
+C:\Users\Dell\Documents\Exos\Bex8\Bex8\Bex8\bin\Debug\Bex8.exe.config
+C:\Users\Dell\Documents\Exos\Bex8\Bex8\Bex8\bin\Debug\Bex8.exe
+C:\Users\Dell\Documents\Exos\Bex8\Bex8\Bex8\bin\Debug\Bex8.pdb
+C:\Users\Dell\Documents\Exos\Bex8\Bex8\Bex8\obj\Debug\Bex8.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Exos\Bex8\Bex8\Bex8\obj\Debug\Bex8.exe
+C:\Users\Dell\Documents\Exos\Bex8\Bex8\Bex8\obj\Debug\Bex8.pdb
