@@ -18,3 +18,8 @@ namespace Bex8
         }
     }
 }
+/* foreach (int pair in pairs)
+if (pair %2 == 0) // Modulo 2
+{
+Console.WriteLine(pair);
+}
